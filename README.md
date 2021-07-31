@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mahn
-- 👀 I’m interested in Football, Socializing, Fishing, Computers, Programming, Physical Activity, Selv-development, Arts, Beer & Wine. 
+- 👀 I’m interested in art, desing, football, lifting weights, fishing, computers, programming, selv-development and alcoholic beverages. 
 - 🌱 I’m currently learning Web Development @theodinproject (RubyOnRails and JavaScript)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: jonas.mahn@gmail.com
