@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @mahn
-- 👀 Arts, sports, computers, fishing and music.
-- 🌱 I’m currently learning Web Development @theodinproject (RubyOnRails and JavaScript).
 - 📫 How to reach me: jonas.mahn@gmail.com
 
 <!---
